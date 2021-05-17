@@ -4,3 +4,4 @@
 In the second part of this project, I have tested the power of Naive Bayes classifiers by creating a system that predicts whether a tweet was sent from New York City, London, or Paris. 
 <br><br>  
 I've also investigated how language is used differently in these three cities. The classifier automatically detect the difference between French and English and learn local phrases and slang. <h5>
+<br> <b> <i>Ultimately the model was able to predict 65% of the tweets correctly.
